@@ -47,7 +47,7 @@
 .img-transition1:hover .text-container{
     visibility: visible;
     bottom: 4px;
-}
+}/*podríamos haber utilizado una sola para ambos elementos ya que comparte las mismas propiedade y así evitar repetir código*/
 .img-transition2:hover .text-container{
     visibility: visible;
     bottom: 0px;
